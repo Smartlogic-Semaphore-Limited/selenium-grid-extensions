@@ -17,3 +17,6 @@ target
 *.iml
 *.iws
 
+# Eclipse
+.project
+.settings/
